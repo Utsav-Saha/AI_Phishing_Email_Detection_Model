@@ -34,7 +34,7 @@ This project presents an Artificial Intelligence model designed to identify and 
 
 ![Sample Plot 1](reports/email_length_distribution.png)
 
-![Sample Report 2](model_accuracy_comparison.png)
+![Sample Report 2](reports/model_accuracy_comparison_nb.png)
 
 ## 🛠️ Tech Stack
 
