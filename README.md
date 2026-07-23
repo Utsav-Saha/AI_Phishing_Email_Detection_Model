@@ -32,9 +32,9 @@ This project presents an Artificial Intelligence model designed to identify and 
 
 <!-- TODO: Add actual screenshots of key visualizations, model performance reports, or notebook outputs. -->
 
-![Sample Plot 1](path-to-plot1.png)
+![Sample Plot 1](reports/email_length_distribution.png)
 
-![Sample Report 2](path-to-report2.png)
+![Sample Report 2](model_accuracy_comparison.png)
 
 ## 🛠️ Tech Stack
 
